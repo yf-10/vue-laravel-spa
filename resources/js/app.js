@@ -7,10 +7,10 @@
 import './bootstrap.js'
 import router from './router/index';
 
-import { createApp } from 'vue';
-
 import ExampleComponent from "./components/ExampleComponent.vue";
 import HeaderComponent from "./components/HeaderComponent.vue";
+
+import { createApp } from 'vue';
 
 /**
  * Next, we will create a fresh Vue application instance. You may then begin

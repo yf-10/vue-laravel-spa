@@ -14,7 +14,7 @@
 </head>
 <body>
     <div id="app">
-        This page is "welcome.blade.php"
+        <!-- This page is "welcome.blade.php" -->
         <header-component></header-component>
         <!-- <example-component></example-component> -->
 
